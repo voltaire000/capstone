@@ -1,0 +1,39 @@
+item {
+    id: 1
+    name: 'A_Label'
+}
+
+item {
+    id: 2
+    name: 'B_Label'
+}
+
+item {
+    id: 3
+    name: 'C_Label'
+}
+
+item {
+    id: 4
+    name: 'D_Label'
+}
+
+item {
+    id: 5
+    name: 'Ref_Label'
+}
+
+item {
+    id: 6
+    name: 'Barcode_Label_1'
+}
+
+item {
+    id: 7
+    name: 'Barcode_Label_2'
+}
+
+item {
+    id: 8
+    name: 'Axium_Label'
+}

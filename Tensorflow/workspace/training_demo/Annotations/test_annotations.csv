@@ -1,0 +1,17 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+image_8_jpg.rf.f9e6214a7a548e06eaffa93410193fc0.jpg,416,416,A-Label,67,177,117,195
+image_8_jpg.rf.f9e6214a7a548e06eaffa93410193fc0.jpg,416,416,B-Label,117,178,163,196
+image_8_jpg.rf.f9e6214a7a548e06eaffa93410193fc0.jpg,416,416,C-Label,68,193,117,209
+image_8_jpg.rf.f9e6214a7a548e06eaffa93410193fc0.jpg,416,416,D-Label,114,192,163,210
+image_8_jpg.rf.f9e6214a7a548e06eaffa93410193fc0.jpg,416,416,Ref-Label,177,200,311,222
+image_8_jpg.rf.f9e6214a7a548e06eaffa93410193fc0.jpg,416,416,Barcode-Label-1,66,231,156,251
+image_8_jpg.rf.f9e6214a7a548e06eaffa93410193fc0.jpg,416,416,Barcode-Label-2,180,240,305,281
+image_8_jpg.rf.f9e6214a7a548e06eaffa93410193fc0.jpg,416,416,axium-label,57,287,316,305
+image_7_jpg.rf.8ad3697a9e26f4613115a8b71f58b5f3.jpg,416,416,A-Label,25,161,102,188
+image_7_jpg.rf.8ad3697a9e26f4613115a8b71f58b5f3.jpg,416,416,B-Label,99,165,173,190
+image_7_jpg.rf.8ad3697a9e26f4613115a8b71f58b5f3.jpg,416,416,C-Label,24,187,99,211
+image_7_jpg.rf.8ad3697a9e26f4613115a8b71f58b5f3.jpg,416,416,D-Label,99,188,170,216
+image_7_jpg.rf.8ad3697a9e26f4613115a8b71f58b5f3.jpg,416,416,Ref-Label,195,201,388,236
+image_7_jpg.rf.8ad3697a9e26f4613115a8b71f58b5f3.jpg,416,416,Barcode-Label-1,33,247,155,277
+image_7_jpg.rf.8ad3697a9e26f4613115a8b71f58b5f3.jpg,416,416,Barcode-Label-2,193,261,380,327
+image_7_jpg.rf.8ad3697a9e26f4613115a8b71f58b5f3.jpg,416,416,Ref-Label,7,334,371,363

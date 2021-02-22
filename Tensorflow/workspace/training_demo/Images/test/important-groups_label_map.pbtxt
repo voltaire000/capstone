@@ -1,0 +1,40 @@
+item {
+    name: "A-Label",
+    id: 1,
+    display_name: "A-Label"
+}
+item {
+    name: "B-Label",
+    id: 2,
+    display_name: "B-Label"
+}
+item {
+    name: "Barcode-Label-1",
+    id: 3,
+    display_name: "Barcode-Label-1"
+}
+item {
+    name: "Barcode-Label-2",
+    id: 4,
+    display_name: "Barcode-Label-2"
+}
+item {
+    name: "C-Label",
+    id: 5,
+    display_name: "C-Label"
+}
+item {
+    name: "D-Label",
+    id: 6,
+    display_name: "D-Label"
+}
+item {
+    name: "Ref-Label",
+    id: 7,
+    display_name: "Ref-Label"
+}
+item {
+    name: "axium-label",
+    id: 8,
+    display_name: "axium-label"
+}
